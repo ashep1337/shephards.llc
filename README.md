@@ -1,2 +1,3 @@
-###This is my website.
-##Updated frequently.
+This is my website.
+
+Updated frequently.
